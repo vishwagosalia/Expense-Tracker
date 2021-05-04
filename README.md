@@ -5,6 +5,7 @@
 To run the project on local machine first clone the directory and open terminal in the project's directory
 
 `git clone https://github.com/vishwagosalia/Expense-Tracker.git`
+
 `cd expense-tracker`
 
 In the project directory, you can run:
