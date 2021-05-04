@@ -3,6 +3,7 @@
 ### Click [here](https://daily-expenses.netlify.app) to view the demo.
 
 To run the project on local machine first clone the directory and open terminal in the project's directory
+
 `git clone https://github.com/vishwagosalia/Expense-Tracker.git`
 `cd expense-tracker`
 
