@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vishwagosalia/Expense-Tracker/static/css/main.8e79478d.chunk.css",
+    "main.js": "/vishwagosalia/Expense-Tracker/static/js/main.78fe3e6d.chunk.js",
+    "main.js.map": "/vishwagosalia/Expense-Tracker/static/js/main.78fe3e6d.chunk.js.map",
+    "runtime-main.js": "/vishwagosalia/Expense-Tracker/static/js/runtime-main.061c8a6f.js",
+    "runtime-main.js.map": "/vishwagosalia/Expense-Tracker/static/js/runtime-main.061c8a6f.js.map",
+    "static/js/2.c4d9fd57.chunk.js": "/vishwagosalia/Expense-Tracker/static/js/2.c4d9fd57.chunk.js",
+    "static/js/2.c4d9fd57.chunk.js.map": "/vishwagosalia/Expense-Tracker/static/js/2.c4d9fd57.chunk.js.map",
+    "index.html": "/vishwagosalia/Expense-Tracker/index.html",
+    "static/css/main.8e79478d.chunk.css.map": "/vishwagosalia/Expense-Tracker/static/css/main.8e79478d.chunk.css.map",
+    "static/js/2.c4d9fd57.chunk.js.LICENSE.txt": "/vishwagosalia/Expense-Tracker/static/js/2.c4d9fd57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.061c8a6f.js",
+    "static/js/2.c4d9fd57.chunk.js",
+    "static/css/main.8e79478d.chunk.css",
+    "static/js/main.78fe3e6d.chunk.js"
+  ]
+}
